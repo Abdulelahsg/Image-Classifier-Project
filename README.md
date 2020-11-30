@@ -4,9 +4,9 @@ This project requires the following python libraries to be installed:<br />
 
 *	NumPy 
 *	Pandas 
-*tensorflow 
-*json
-*matplotlip
+* tensorflow 
+* json
+* matplotlip
 
 I will train an image classifier to recognize different species of flowers.
 Imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. 
